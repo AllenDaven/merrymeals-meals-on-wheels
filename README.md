@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# MerryMeal - Meals On Wheels Project
+Welcome to the MerryMeal project repository! This project is developed by a team of five members at Unity One Solutions, aimed at supporting the charitable organization MerryMeal in their mission to deliver hot, nutritious meals to adults in need.
+
+## Project Overview
+MerryMeal provides a hot noon meal service to qualified adults living at home who are unable to cook for themselves due to age, disease, or disability. The service operates from Monday to Friday, with frozen meals available for those outside a 10-kilometer radius and for weekend support.
+>>>>>>> c938c17db34b64dbe3aa315c12eeb0732ee8ee2e
